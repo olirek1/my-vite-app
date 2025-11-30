@@ -24,7 +24,7 @@ export default function CustomerList() {
 
   return (
     <div style={{ padding: '20px' }}>
-      <h2>Customer List ({customers.length})</h2>
+      <h2>Employee List ({customers.length})</h2>
       
       <div style={{ marginBottom: '20px' }}>
         <input 
